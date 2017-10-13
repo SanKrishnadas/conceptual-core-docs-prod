@@ -23,9 +23,9 @@
   },
   "docsets_to_publish": [
     {
-      "docset_name": "Test-conceptual-core-docs",
+      "docset_name": "conceptual-core-docs-prod",
       "build_source_folder": ".",
-      "build_output_subfolder": "Test-conceptual-core-docs",
+      "build_output_subfolder": "conceptual-core-docs-prod",
       "locale": "en-us",
       "enable_filemap_share": true,
       "monikers": [
